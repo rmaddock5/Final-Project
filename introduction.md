@@ -23,7 +23,7 @@ What is HTML?
 #### Click any link to visit another page!
 
 + [Introduction](introduction.md)
-+ [Editors](editors.md)
 + [Basics](basics.md)
 + [CSS](css.md)
++ [Home](readme.md)
 
