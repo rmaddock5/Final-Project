@@ -48,7 +48,6 @@ This :arrow_double_up: is the outcome of the code being ran.
 
 + [Introduction](introduction.md)
 + [Basics](basics.md)
-+ [CSS](css.md)
 + [Home](readme.md)
 
 
