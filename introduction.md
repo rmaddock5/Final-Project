@@ -1,4 +1,4 @@
-# Introduction
+# Introduction :computer:
 What is HTML?
 
 + Hyper Text Markup Language
@@ -7,11 +7,6 @@ What is HTML?
 + Tells the browser how to structure and display things on a page
 
 
-## Simple HTML Example
-
-![Public Domain](HTML.png)
-
-Lets break this image down into specifics!
 
 
 
@@ -25,6 +20,7 @@ Lets break this image down into specifics!
 
 
 
+#### Click any link to visit another page!
 
 + [Introduction](introduction.md)
 + [Editors](editors.md)
