@@ -1,5 +1,4 @@
 # HTML Basics
-
 ![Public Domain](HTMLexample.png)
 
 ### Example Break Down:
@@ -15,6 +14,19 @@
 | < p >    | Defines a simple paragraph tag. |
 
 ## Headers
+![Public Domain](h1Code.png) 
 
+The :arrow_double_up: is an example of what the < h1 > tag will look like with larger and smaller numbers.
+
+![Public Domain](headersResult.png)
+
+This :arrow_double_up: is the outcome of the code being ran in an editor. 
+
+## Paragraph
+
+
+##### There are many more tags that can be used in HTML
+
+## Links
 
 
