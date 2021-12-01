@@ -47,9 +47,9 @@ This :arrow_double_up: is the outcome of the code being ran.
 #### Click any link to visit another page!
 
 + [Introduction](introduction.md)
-+ [Editors](editors.md)
 + [Basics](basics.md)
 + [CSS](css.md)
++ [Home](readme.md)
 
 
 
