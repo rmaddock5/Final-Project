@@ -16,17 +16,34 @@
 ## Headers
 ![Public Domain](h1Code.png) 
 
-The :arrow_double_up: is an example of what the < h1 > tag will look like with larger and smaller numbers.
+The :arrow_double_up: is an example of what the tag will look like in the editor.
 
 ![Public Domain](headersResult.png)
 
-This :arrow_double_up: is the outcome of the code being ran in an editor. 
+This :arrow_double_up: is the outcome of the code being ran. 
 
 ## Paragraph
 
+![Public Domain](paragraphCode.png)
+
+The :arrow_double_up: is an example of what the tag will look like in the editor.
+
+![Public Domain](paragraphResult.png)
+
+This :arrow_double_up: is the outcome of the code being ran. 
 
 ##### There are many more tags that can be used in HTML
 
 ## Links
+
+![Public Domain](linkCode.png)
+
+The :arrow_double_up: is an example of what the tag will look like in the editor.
+
+![Public Domain](linkResults.png)
+
+This :arrow_double_up: is the outcome of the code being ran. 
+
+
 
 
