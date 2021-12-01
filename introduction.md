@@ -24,6 +24,5 @@ What is HTML?
 
 + [Introduction](introduction.md)
 + [Basics](basics.md)
-+ [CSS](css.md)
 + [Home](readme.md)
 
