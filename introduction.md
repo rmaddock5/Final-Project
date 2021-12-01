@@ -7,9 +7,11 @@ What is HTML?
 + Tells the browser how to structure and display things on a page
 
 
-## Simple HTML Document
+## Simple HTML Example
 
-![Public Domain](file:///var/folders/jb/hpl4z1m95qz2t96fshct9bcw0000gn/T/TemporaryItems/NSIRD_screencaptureui_uKiGRD/Screen%20Shot%202021-12-01%20at%202.33.20%20PM.png)
+![Public Domain](HTML.png)
+
+Lets break this image down into specifics!
 
 
 
